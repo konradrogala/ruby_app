@@ -9,3 +9,7 @@ To run script write in console: `ruby <file_name> <preferable_stats>`
 preferable stats to choose:
 - UNIQ - shows paths descending by number of uniq views
 - MOST VIEWED - shows paths descending by number of all views
+
+To run rspec first `bundle install`
+
+then `bundle exec rspec`
