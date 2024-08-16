@@ -1,5 +1,3 @@
-require 'pry'
-
 class StatsPrinter
   def initialize(file_name, stats_type)
     @file_name = file_name
